@@ -1,1 +1,2 @@
-print("hello worlcd")
+lista=[int(input('digite um numero: '))]
+print(lista)
